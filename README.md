@@ -1,6 +1,6 @@
 # Plex
 Scripts for my Plex Adult Agent
-- ![#f03c15](https://placehold.it/15/1589F0/000000?text=+) `#f03c15`
+- ![](http://lh5.ggpht.com/-03u6RW4cLBE/U54u_5VPCdI/AAAAAAAE9Gg/QaEjVxoDiiM/danganronpa_150_370_320.png) `#f03c15`
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
